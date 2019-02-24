@@ -10,7 +10,7 @@ import (
 )
 
 const (
-	ENV_PREFIX          = "JC_ASSIGNMENT_"
+	ENV_PREFIX          = "JC_INTERVIEW_ASSIGNMENT_"
 	DEFAULT_ENVIRONMENT = "prod"
 )
 
